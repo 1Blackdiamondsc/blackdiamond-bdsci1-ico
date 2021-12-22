@@ -16,12 +16,12 @@ const Counter = ({icoCounterClass}) => {
                   <div className="count-down titled circled text-center">
                     <SlideCountdown
                       weeks={false}
-                      deadline="2024-19-31 14:23:22" />
+                      deadline="2022-12-24 14:23:22" />
                   </div>
                   <div className="bdsci1-ico-progress">
                     <ul className="list-unstyled list-inline clearfix mb-10">
-                      <li className="title">7m</li>
-                      <li className="strength">21m</li>
+                      <li className="title">7000avax</li>
+                      <li className="strength">14000avax</li>
                     </ul>
                     <div className="current-progress">
                       <Line percent="1" trailWidth="3" strokeWidth="4" strokeColor="#fb881d" />
