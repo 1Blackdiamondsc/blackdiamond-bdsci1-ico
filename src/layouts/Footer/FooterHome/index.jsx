@@ -23,7 +23,7 @@ const FooterHome = () => {
                   <div className="footer-logo">
                     <a href="#"><img draggable="false" src={FooterLogo} alt="logo" /> </a>
                   </div>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ducimus voluptatibus neque illo id repellat quisquam? Autem expedita earum quae laborum ipsum ad.</p>
+                  <p>BlackDiamondScInc1 ICO Lyanch.</p>
                 </div>
                 <div className="footer-social-info fadeInUp" data-wow-delay="0.4s">
                   {IcoName && IcoName.map((item , key) => (
