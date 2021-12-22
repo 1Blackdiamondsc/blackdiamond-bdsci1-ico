@@ -13,7 +13,7 @@ const OurService = ({data}) => {
 					    <img draggable="false" src={item.img} alt="" />
 					  </div>
 					  <h6 className="bold">{item.title}</h6>
-					  <p>BlackDiamondSCInc1 Core Services: Decentralized Wallet And Trading Platform.</p>
+					  <p>BlackDiamondSCInc1 Core Services: DEfi Token Decentralized Wallet And Trading Platform.</p>
 					</div>
 				</div>				
 			))}
