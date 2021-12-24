@@ -20,8 +20,8 @@ const Counter = ({icoCounterClass}) => {
                   </div>
                   <div className="bdsci1-ico-progress">
                     <ul className="list-unstyled list-inline clearfix mb-10">
-                      <li className="title">7000avax</li>
-                      <li className="strength">14000avax</li>
+                      <li className="title">5,816.300000 avax</li>
+                      <li className="strength">12,463.500000 avax</li>
                     </ul>
                     <div className="current-progress">
                       <Line percent="1" trailWidth="3" strokeWidth="4" strokeColor="#fb881d" />
